@@ -7,6 +7,7 @@
 int main()
 {
 	int s = 0;
+	int a = 5;
 	return 0;
 }
 
