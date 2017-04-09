@@ -10,6 +10,7 @@ int main()
 	int a = 5;
 	int b = 2;
 	s = a + b;
+	int d = 0;
 	return 0;
 }
 
