@@ -11,6 +11,7 @@ int main()
 	int b = 2;
 	s = a + b;
 	int d = 0;
+	d = 5; 
 	return 0;
 }
 
