@@ -8,6 +8,7 @@ int main()
 {
 	int s = 0;
 	int a = 5;
+	int b = 2;
 	return 0;
 }
 
